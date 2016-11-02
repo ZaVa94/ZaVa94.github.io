@@ -10,6 +10,7 @@ nav ul, footer ul {
 }
 nav{
     position: fixed;
+    top: 5%;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -26,16 +27,16 @@ h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
-div.pg1{
+#pg1{
     height: 1000px;
 }
-div.pg2{
+#pg2{
     height: 1000px;
 }
-div.pg3{
+#pg3{
     height: 10000px;
 }
-div.pg4{
+#pg4{
     height: 1000px;
 }
 p {
