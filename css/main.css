@@ -28,16 +28,16 @@ h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
-#home{
+#pg1{
     height: 1000px;
 }
-#about{
+#pg2{
     height: 1000px;
 }
-#experience{
+#pg3{
     height: 1000px;
 }
-#projects{
+#pg4{
     height: 1000px;
 }
 p {
