@@ -10,7 +10,8 @@ nav ul, footer ul {
 }
 nav{
     position: fixed;
-    top: 5%;
+    top: 2%;
+    right: 10;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -34,7 +35,7 @@ h1 {
     height: 1000px;
 }
 #experience{
-    height: 10000px;
+    height: 1000px;
 }
 #projects{
     height: 1000px;
